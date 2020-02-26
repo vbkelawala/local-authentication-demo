@@ -4,5 +4,7 @@ Use Apple FaceID or TouchID authentication in your app using BiometricAuthentica
 
 Note: - Face ID authentication requires user's persmission to be add in info.plist
 
+```
 <key>NSFaceIDUsageDescription</key>
 <string>This app requires Face ID permission to authenticate using Face recognition.</string>
+```
